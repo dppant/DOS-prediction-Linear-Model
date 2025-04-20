@@ -3,4 +3,4 @@ In this project, we first calculate the valence electron concentration (VEC) of 
 This work was utilized in the paper published in `Materials & Design`. You can access the paper here:
 https://doi.org/10.1016/j.matdes.2025.113885
 
-Furthermore, we are developing a ml model with additional features to improve prediction accuracy in DOS. 
+Furthermore, we are developing a new ml model with additional features to improve prediction accuracy in DOS. 
