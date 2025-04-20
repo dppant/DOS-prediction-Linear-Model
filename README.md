@@ -4,4 +4,4 @@ This work has been published in `Materials & Design`. You can access the paper h
 https://doi.org/10.1016/j.matdes.2025.113885
 
 
-Furthermore, we are developing a `new model` with additional features to improve prediction accuracy. 
+Furthermore, we are developing a New Model with additional features to improve prediction accuracy. 
